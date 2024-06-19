@@ -212,7 +212,7 @@ router.get("/esport", (request, response) => {
             "start_date": "2024-09-29",
             "end_date": "2024-09-30",
             "type": "Overwatch Championship",
-            "image": "https://images.unsplash.com/photo-1485178075098-49f78b4b43b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2MjQwOTR8MHwxfHNlYXJjaHw0fHxlc3BvcnQlMjBldmVudHxlbnwwfDF8fHwxNzE4ODAzMzEwfDA&ixlib=rb-4.0.3&q=80&w=1080"
+            "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
             "event_name": "Intel Extreme Masters",
@@ -220,7 +220,7 @@ router.get("/esport", (request, response) => {
             "start_date": "2024-03-01",
             "end_date": "2024-03-03",
             "type": "Counter-Strike: Global Offensive Tournament",
-            "image": "https://images.unsplash.com/photo-1473973916745-60839aebf06b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2MjQwOTR8MHwxfHNlYXJjaHw1fHxlc3BvcnQlMjBldmVudHxlbnwwfDF8fHwxNzE4ODAzMzEwfDA&ixlib=rb-4.0.3&q=80&w=1080"
+            "image": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
             "event_name": "Call of Duty League Championship",
@@ -244,7 +244,7 @@ router.get("/esport", (request, response) => {
             "start_date": "2024-08-02",
             "end_date": "2024-08-04",
             "type": "Fighting Games Tournament",
-            "image": "https://images.unsplash.com/photo-1502635385003-ee1e6a1a742d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2MjQwOTR8MHwxfHNlYXJjaHw4fHxlc3BvcnQlMjBldmVudHxlbnwwfDF8fHwxNzE4ODAzMzEwfDA&ixlib=rb-4.0.3&q=80&w=1080"
+            "image": "https://images.unsplash.com/photo-1633545505446-586bf83717f0?q=80&w=2944&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
             "event_name": "PUBG Global Championship",
@@ -252,7 +252,7 @@ router.get("/esport", (request, response) => {
             "start_date": "2024-11-15",
             "end_date": "2024-11-17",
             "type": "PUBG Championship",
-            "image": "https://images.unsplash.com/photo-1515962187632-cc5c908fd2ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2MjQwOTR8MHwxfHNlYXJjaHw5fHxlc3BvcnQlMjBldmVudHxlbnwwfDF8fHwxNzE4ODAzMzEwfDA&ixlib=rb-4.0.3&q=80&w=1080"
+            "image": "https://images.unsplash.com/photo-1636487658592-db4db6e729a7?q=80&w=2944&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
             "event_name": "Hearthstone World Championship",
@@ -260,7 +260,7 @@ router.get("/esport", (request, response) => {
             "start_date": "2024-12-06",
             "end_date": "2024-12-08",
             "type": "Hearthstone Championship",
-            "image": "https://images.unsplash.com/photo-1530023367847-a683933f4172?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2MjQwOTR8MHwxfHNlYXJjaHwxMHx8ZXNwb3J0JTIwZXZlbnR8ZW58MHwxfHx8MTcxODgwMzMxMHww&ixlib=rb-4.0.3&q=80&w=1080"
+            "image": "https://images.unsplash.com/photo-1553492206-f609eddc33dd?q=80&w=2831&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         }
     ];
 
@@ -536,7 +536,7 @@ router.get("/elearning", (request, response) => {
             "start_date": "2024-09-10",
             "end_date": "2024-09-12",
             "type": "Conference",
-            "image": "https://images.unsplash.com/photo-1509316647984-7dea6d513c98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2MjQwOTR8MHwxfHNlYXJjaHwxfHxmb290YmFsbCUyMGV2ZW50fGVufDB8MXx8fDE3MTg4MDMzMDd8MA&ixlib=rb-4.0.3&q=80&w=1080"
+            "image": "https://images.unsplash.com/photo-1546430498-05c7b929830e?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
             "event_name": "E-Learn World Conference",
@@ -544,7 +544,7 @@ router.get("/elearning", (request, response) => {
             "start_date": "2024-11-05",
             "end_date": "2024-11-07",
             "type": "Conference",
-            "image": "https://images.unsplash.com/photo-1684080060958-bbe39813566a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2MjQwOTR8MHwxfHNlYXJjaHwyfHxmb290YmFsbCUyMGV2ZW50fGVufDB8MXx8fDE3MTg4MDMzMDd8MA&ixlib=rb-4.0.3&q=80&w=1080"
+            "image": "https://images.unsplash.com/photo-1608600712992-03e5325d94c8?q=80&w=2938&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
             "event_name": "Learning Technologies Summer Forum",
@@ -552,7 +552,7 @@ router.get("/elearning", (request, response) => {
             "start_date": "2024-06-18",
             "end_date": "2024-06-18",
             "type": "Forum",
-            "image": "https://images.unsplash.com/photo-1492636408754-1268274d6d51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2MjQwOTR8MHwxfHNlYXJjaHwzfHxmb290YmFsbCUyMGV2ZW50fGVufDB8MXx8fDE3MTg4MDMzMDd8MA&ixlib=rb-4.0.3&q=80&w=1080"
+            "image": "https://images.unsplash.com/photo-1516321497487-e288fb19713f?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
             "event_name": "EdTech Europe",
@@ -560,7 +560,7 @@ router.get("/elearning", (request, response) => {
             "start_date": "2024-06-20",
             "end_date": "2024-06-20",
             "type": "Summit",
-            "image": "https://images.unsplash.com/photo-1703711096750-6e0d08d25626?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2MjQwOTR8MHwxfHNlYXJjaHw0fHxmb290YmFsbCUyMGV2ZW50fGVufDB8MXx8fDE3MTg4MDMzMDd8MA&ixlib=rb-4.0.3&q=80&w=1080"
+            "image": "https://images.unsplash.com/photo-1588912914078-2fe5224fd8b8?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
             "event_name": "DevLearn Conference & Expo",
@@ -568,7 +568,7 @@ router.get("/elearning", (request, response) => {
             "start_date": "2024-10-23",
             "end_date": "2024-10-25",
             "type": "Conference and Expo",
-            "image": "https://images.unsplash.com/photo-1631346392930-acbe6c686a19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2MjQwOTR8MHwxfHNlYXJjaHw1fHxmb290YmFsbCUyMGV2ZW50fGVufDB8MXx8fDE3MTg4MDMzMDd8MA&ixlib=rb-4.0.3&q=80&w=1080"
+            "image": "https://images.unsplash.com/photo-1552581234-26160f608093?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
             "event_name": "OEB Global",
@@ -576,7 +576,7 @@ router.get("/elearning", (request, response) => {
             "start_date": "2024-12-04",
             "end_date": "2024-12-06",
             "type": "Conference",
-            "image": "https://images.unsplash.com/photo-1635756062663-ec064fe8da3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2MjQwOTR8MHwxfHNlYXJjaHw2fHxmb290YmFsbCUyMGV2ZW50fGVufDB8MXx8fDE3MTg4MDMzMDd8MA&ixlib=rb-4.0.3&q=80&w=1080"
+            "image": "https://images.unsplash.com/photo-1513258496099-48168024aec0?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
             "event_name": "Learning Solutions Conference & Expo",
@@ -584,7 +584,7 @@ router.get("/elearning", (request, response) => {
             "start_date": "2024-03-26",
             "end_date": "2024-03-28",
             "type": "Conference and Expo",
-            "image": "https://images.unsplash.com/photo-1636629198288-8fe85b92110a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2MjQwOTR8MHwxfHNlYXJjaHw3fHxmb290YmFsbCUyMGV2ZW50fGVufDB8MXx8fDE3MTg4MDMzMDd8MA&ixlib=rb-4.0.3&q=80&w=1080"
+            "image": "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?q=80&w=2948&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
             "event_name": "eLearning Africa",
@@ -592,7 +592,7 @@ router.get("/elearning", (request, response) => {
             "start_date": "2024-05-22",
             "end_date": "2024-05-24",
             "type": "Conference",
-            "image": "https://images.unsplash.com/photo-1542029123374-26f7a8e05fdd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2MjQwOTR8MHwxfHNlYXJjaHw4fHxmb290YmFsbCUyMGV2ZW50fGVufDB8MXx8fDE3MTg4MDMzMDd8MA&ixlib=rb-4.0.3&q=80&w=1080"
+            "image": "https://plus.unsplash.com/premium_photo-1681488245781-6d5617e3dba9?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
             "event_name": "Digital Learning Annual Conference",
@@ -600,7 +600,7 @@ router.get("/elearning", (request, response) => {
             "start_date": "2024-04-01",
             "end_date": "2024-04-03",
             "type": "Conference",
-            "image": "https://images.unsplash.com/photo-1529510078431-fefe4d9d8aab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2MjQwOTR8MHwxfHNlYXJjaHw5fHxmb290YmFsbCUyMGV2ZW50fGVufDB8MXx8fDE3MTg4MDMzMDd8MA&ixlib=rb-4.0.3&q=80&w=1080"
+            "image": "https://images.unsplash.com/photo-1521790945508-bf2a36314e85?q=80&w=2834&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
             "event_name": "World Conference on Online Learning",
@@ -608,7 +608,7 @@ router.get("/elearning", (request, response) => {
             "start_date": "2024-10-06",
             "end_date": "2024-10-09",
             "type": "Conference",
-            "image": "https://images.unsplash.com/photo-1694964009504-e7ef622378b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2MjQwOTR8MHwxfHNlYXJjaHwxMHx8Zm9vdGJhbGwlMjBldmVudHxlbnwwfDF8fHwxNzE4ODAzMzA3fDA&ixlib=rb-4.0.3&q=80&w=1080"
+            "image": "https://plus.unsplash.com/premium_photo-1683121636751-0b7f44107c63?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         }
     ];
 
