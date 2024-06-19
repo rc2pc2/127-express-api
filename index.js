@@ -206,3 +206,116 @@ app.get("/clubs", (request, response) => {
     
     response.send(status);
  });
+
+ 
+app.get("/fitness-articles", (request, response) => {
+    const status = [
+        {
+            "title": "The Ultimate Guide to Strength Training",
+            "author": "John Doe",
+            "publication_date": "2023-01-15",
+            "url": "https://www.example.com/ultimate-guide-strength-training",
+            "summary": "A comprehensive guide covering everything you need to know about strength training, including exercises, techniques, and benefits."
+        },
+        {
+            "title": "Top 10 Cardio Workouts for Weight Loss",
+            "author": "Jane Smith",
+            "publication_date": "2023-02-10",
+            "url": "https://www.example.com/top-10-cardio-workouts",
+            "summary": "A list of the best cardio workouts to help you lose weight and improve cardiovascular health."
+        },
+        {
+            "title": "Yoga for Beginners: Tips and Poses",
+            "author": "Emily Johnson",
+            "publication_date": "2023-03-05",
+            "url": "https://www.example.com/yoga-for-beginners",
+            "summary": "An introductory guide to yoga for beginners, including basic poses and tips for starting your practice."
+        },
+        {
+            "title": "How to Create a Balanced Workout Routine",
+            "author": "Michael Brown",
+            "publication_date": "2023-04-20",
+            "url": "https://www.example.com/balanced-workout-routine",
+            "summary": "Learn how to create a well-rounded workout routine that includes strength training, cardio, and flexibility exercises."
+        },
+        {
+            "title": "The Benefits of High-Intensity Interval Training (HIIT)",
+            "author": "Sarah Davis",
+            "publication_date": "2023-05-18",
+            "url": "https://www.example.com/benefits-of-hiit",
+            "summary": "Discover the benefits of HIIT workouts, including improved fitness levels, fat loss, and reduced workout time."
+        },
+        {
+            "title": "Nutrition Tips for Optimal Fitness",
+            "author": "David Martinez",
+            "publication_date": "2023-06-25",
+            "url": "https://www.example.com/nutrition-tips-optimal-fitness",
+            "summary": "Essential nutrition tips to help you fuel your body and achieve your fitness goals."
+        },
+        {
+            "title": "Stretching Exercises to Improve Flexibility",
+            "author": "Laura Wilson",
+            "publication_date": "2023-07-10",
+            "url": "https://www.example.com/stretching-exercises",
+            "summary": "A guide to effective stretching exercises that can help improve your flexibility and prevent injuries."
+        },
+        {
+            "title": "The Importance of Rest and Recovery in Fitness",
+            "author": "James Anderson",
+            "publication_date": "2023-08-15",
+            "url": "https://www.example.com/rest-and-recovery",
+            "summary": "Understand the importance of rest and recovery in your fitness routine and how to incorporate it effectively."
+        },
+        {
+            "title": "Strength Training for Women: Myths and Facts",
+            "author": "Megan Taylor",
+            "publication_date": "2023-09-05",
+            "url": "https://www.example.com/strength-training-for-women",
+            "summary": "Addressing common myths and providing facts about strength training for women."
+        },
+        {
+            "title": "Best Outdoor Activities for Staying Fit",
+            "author": "Chris White",
+            "publication_date": "2023-10-12",
+            "url": "https://www.example.com/best-outdoor-activities",
+            "summary": "A list of the best outdoor activities to keep you fit and active, from hiking to cycling."
+        },
+        {
+            "title": "Mindfulness and Meditation for Better Fitness",
+            "author": "Anna Thomas",
+            "publication_date": "2023-11-20",
+            "url": "https://www.example.com/mindfulness-meditation-fitness",
+            "summary": "Exploring the benefits of mindfulness and meditation practices to enhance your fitness journey."
+        },
+        {
+            "title": "Home Workout Routines: No Equipment Needed",
+            "author": "Daniel Lee",
+            "publication_date": "2023-12-01",
+            "url": "https://www.example.com/home-workout-routines",
+            "summary": "Effective home workout routines that require no equipment, perfect for staying fit at home."
+        },
+        {
+            "title": "How to Stay Motivated in Your Fitness Journey",
+            "author": "Sophia Moore",
+            "publication_date": "2024-01-10",
+            "url": "https://www.example.com/stay-motivated-fitness",
+            "summary": "Tips and strategies to help you stay motivated and committed to your fitness goals."
+        },
+        {
+            "title": "The Role of Hydration in Exercise Performance",
+            "author": "Robert Harris",
+            "publication_date": "2024-02-22",
+            "url": "https://www.example.com/role-of-hydration",
+            "summary": "Understanding the crucial role of hydration in maintaining optimal exercise performance."
+        },
+        {
+            "title": "Functional Fitness: Training for Everyday Life",
+            "author": "Jessica Lewis",
+            "publication_date": "2024-03-15",
+            "url": "https://www.example.com/functional-fitness",
+            "summary": "An introduction to functional fitness and how it helps you perform everyday activities more efficiently."
+        }
+    ];
+    
+    response.send(status);
+ });
